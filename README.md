@@ -1,0 +1,1 @@
+# centos-node docker image
